@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564624366 source:d:\programming\c\the c programming language book exercises\chapter 1\copy input to output and remove blanks\main.c
+	<stdio.h>
+	<stdlib.h>
+

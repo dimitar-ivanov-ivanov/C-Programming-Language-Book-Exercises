@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564618704 source:d:\programming\c\the c programming language book exercises\chapter 1\fahrenheit-celsius table with constants\main.c
+	<stdio.h>
+	<stdlib.h>
+
