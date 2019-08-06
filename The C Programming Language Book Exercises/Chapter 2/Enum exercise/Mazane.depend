@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565054708 source:d:\programming\c\the c programming language book exercises\chapter 2\mazane\main.c
+	<stdio.h>
+	<stdlib.h>
+

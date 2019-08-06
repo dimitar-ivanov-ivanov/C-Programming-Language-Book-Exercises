@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565063971 source:d:\programming\c\the c programming language book exercises\chapter 2\delete matching chars from two strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

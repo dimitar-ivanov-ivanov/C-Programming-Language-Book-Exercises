@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565060920 source:d:\programming\c\the c programming language book exercises\chapter 2\hexadecimal to decimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

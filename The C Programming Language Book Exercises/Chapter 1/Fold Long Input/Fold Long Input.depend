@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564898012 source:d:\programming\c\the c programming language book exercises\chapter 1\fold long input\main.c
+	<stdio.h>
+	<stdlib.h>
+
