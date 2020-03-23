@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584957803 source:d:\programming\c\the c programming language book exercises\chapter 10\catalogue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

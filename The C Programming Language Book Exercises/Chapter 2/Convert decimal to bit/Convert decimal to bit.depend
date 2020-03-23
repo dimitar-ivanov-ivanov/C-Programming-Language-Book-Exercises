@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565131382 source:d:\programming\c\the c programming language book exercises\chapter 2\convert decimal to bit\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583175234 source:d:\programming\c\c softuni\files\studentrecords\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

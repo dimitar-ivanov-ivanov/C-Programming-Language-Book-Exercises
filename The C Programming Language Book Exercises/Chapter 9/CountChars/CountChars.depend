@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582665082 source:d:\programming\c\c softuni\files\countchars\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565562241 source:d:\programming\c\the c programming language book exercises\chapter 3\convert from decimal to base b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

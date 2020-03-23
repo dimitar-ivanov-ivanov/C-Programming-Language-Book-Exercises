@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582752794 source:d:\programming\c\c softuni\files\readlinesfromfileandstorethemintoarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

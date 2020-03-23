@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565563537 source:d:\programming\c\the c programming language book exercises\chapter 3\convert number to string with given width\main.c
+	<stdio.h>
+	<stdlib.h>
+

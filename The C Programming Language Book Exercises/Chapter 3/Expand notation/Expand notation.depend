@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1565560384 source:d:\programming\c\the c programming language book exercises\chapter 3\expand notation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
