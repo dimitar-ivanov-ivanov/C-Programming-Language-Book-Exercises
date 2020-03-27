@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585041489 source:d:\programming\c\the c programming language book exercises\chapter 11\ transportation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
